@@ -36,7 +36,7 @@ cena 100
 
 ## Hiding the Usage
 
-Now, to make this show up unexpectedly, you can make this run at some unexpected event, like when the shell is first sourced, by adding it to the user’s `~/.bashrc` file.
+Now, to make this show up unexpectedly, you can make this run at some unexpected event, like when the shell is first sourced, by adding it to the user’s `~/.bashrc` file (or even their `~/.zshrc` or alternatives if that’s what they’re using).
 
 ```bash
 echo 'cena 100' >> ~/.bashrc
