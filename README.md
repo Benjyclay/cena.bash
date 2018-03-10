@@ -49,4 +49,4 @@ touch /etc/update-motd.d/98-secret-sauce
 echo 'cena 100' >> /etc/update-motd.d/98-secret-sauce
 ```
 
-Of course, if you’re concerned about this being found out too easily, you may also want to wipe your `~/.bash_history` file and take even further steps to hide where it’s being loaded from.
+Of course, if you’re concerned about this being found out too easily, you may also want to wipe their `~/.bash_history` file and take even further steps to hide where it’s being loaded from.
