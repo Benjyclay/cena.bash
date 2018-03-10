@@ -1,6 +1,6 @@
 # Cenafy for Bash
 
-Based on the [wonderful Chrome extension of the same name](https://medium.com/r/?url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fcenafy%2Fndchmakhfaakbkhnkdgambadneloplnn) that lets you know who the champ is, this is a version for Bash that lets an unsuspecting victim who left their terminal open know about the champ via the magic of ASCII art (and even some killer singing, if they have the say command like on Mac OS).
+Based on the [wonderful Chrome extension of the same name](https://chrome.google.com/webstore/detail/cenafy/ndchmakhfaakbkhnkdgambadneloplnn) that lets you know who the champ is, this is a version for Bash that lets an unsuspecting victim who left their terminal open know about the champ via the magic of ASCII art (and even some killer singing, if they have the say command like on Mac OS).
 
 ![John Felix Anthony Cena](https://cdn-images-1.medium.com/max/1000/1*kplz1Tm-Gs0e9-5KGXBEBA.png)
 
